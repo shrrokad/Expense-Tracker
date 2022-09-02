@@ -1,0 +1,77 @@
+.form-border{
+    border: 2px solid #000;
+    padding:  35px;
+}
+.form-control{
+    height: 50px !important;
+}
+.btn-color{
+    background-color: #6C3483 !important;
+    color: #fff !important;
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+}
+.color h4{
+    color: #6C3483;
+}
+.option{
+    background-color: #fff !important;
+    color: #000 !important;
+}
+.select-color{
+    background-color: #6C3483 !important;
+    color: #fff !important;
+    height: 50px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.border-color{
+    border: 1px solid #6C3483 !important;
+    padding: 25px 15px;
+    height: auto;
+    /* margin-bottom: 3px; */
+}
+.left-side{
+    background-color: rgba(108, 52, 131, 0.5);
+    padding: 40px 15px;
+    /* width: 222px !important; */
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+.amout{
+    border: 1px solid #6C3483;
+    width: 98%;
+    height: 30%;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.button1{
+    /* background-color: #1E8449; */
+    background-color: rgba(108, 52, 131, 0.5);
+    border: none;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button2{
+    background-color: #EC7063;
+    border: none;
+    padding: 10px 30px;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.margin{
+    margin-right: 15px;
+}
+.custom-tooltip{
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+}
